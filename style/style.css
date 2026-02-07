@@ -4,7 +4,9 @@ html {
 
 body {
   margin: 0;
+  background-color: #FFF5E4
   font-family: "Work Sans", sans-serif;
+  color: #FF9494
 }
 
 .container {
